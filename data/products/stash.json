@@ -31,7 +31,7 @@
       "192x192": "https://cdn.appscode.com/images/products/stash/icons/android-icon-192x192.png"
     }
   },
-  "repoURL": "https://github.com/stashed/docs",
+  "repoURL": "https://github.com/appscode-cloud/docs",
   "starRepo": "stashed/stash",
   "docRepo": "stashed/docs",
   "badges": [
